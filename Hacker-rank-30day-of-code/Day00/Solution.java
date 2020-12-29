@@ -1,16 +1,6 @@
-package com.hackerrank;
-
 import java.util.Scanner;
 
-public class Day00 {
-
-	//Hello, World.
-	
-	//Sample Input : Welcome to 30 Days of Code!
-
-	//Sample Output
-	//Hello, World. 
-	//Welcome to 30 Days of Code!
+public class Solution {
 
 	public static void main(final String[] args) {
 
